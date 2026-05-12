@@ -14,12 +14,12 @@
 - [[知识社会学]] — `entities/fields/知识社会学.md`
 - [[宗教社会学]] — `entities/fields/宗教社会学.md`
 - [[道德社会学]] — `entities/fields/道德社会学.md`
-- [[社会形态学（研究传统）]] — `entities/fields/社会形态学.md`
+- [[entities/fields/社会形态学|社会形态学]] — `entities/fields/社会形态学.md`
 - [[教育社会学]] — `entities/fields/教育社会学.md`
 
 ### 研究方法论
 
-- [[涂尔干的研究方法论]] — `entities/methods/涂尔干.md`
+- [[entities/methods/涂尔干|涂尔干]] — `entities/methods/涂尔干.md`
 
 ### 文本
 
