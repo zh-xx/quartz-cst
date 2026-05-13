@@ -1,13 +1,13 @@
 # Wiki 索引
 
 > 社会学经典理论研究仓库总目录。  
-> 最后更新：2026-05-10（实体页子类型扩展：新增 entities/fields/ 和 entities/methods/ 两个子目录）
+> 最后更新：2026-05-12（READ-006 完成：新增 entities/texts/教育思想的演进.md、entities/fields/教育社会学.md）
 
 ## 实体页
 
 ### 人物
 
-- [[涂尔干]]（Émile Durkheim，1858–1917）— `entities/persons/涂尔干.md`
+- [[entities/persons/涂尔干|涂尔干]]（Émile Durkheim，1858–1917）— `entities/persons/涂尔干.md`
 
 ### 研究领域
 
