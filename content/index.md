@@ -1,7 +1,7 @@
 # Wiki 索引
 
 > 社会学经典理论研究仓库总目录。  
-> 最后更新：2026-05-18（结构整理：社会形态学概念页并入 field 页；社会学研究方法页改建为 comparisons/方法论总表.md；新建政治社会学 field 页；methods 页重命名为 -方法论 后缀）
+> 最后更新：2026-05-19（READ-009 Step 5：新增教派与教会概念页；全书论证链补写）
 
 ## 实体页
 
@@ -27,6 +27,7 @@
 ### 文本
 
 - [[社会科学方法论文集]]（韦伯，1904–1922）— `entities/texts/社会科学方法论文集.md`
+- [[entities/texts/新教伦理与资本主义精神|新教伦理与资本主义精神]]（韦伯，1904–1905 / 1920修订）— `entities/texts/新教伦理与资本主义精神.md`
 - [[社会分工论]]（涂尔干，1893）— `entities/texts/社会分工论.md`
 - [[社会学方法的准则]]（涂尔干，1895）— `entities/texts/社会学方法的准则.md`
 - [[自杀论]]（涂尔干，1897）— `entities/texts/自杀论.md`
@@ -59,10 +60,15 @@
 - [[卡理斯玛]]（Charisma）— `concepts/卡理斯玛.md`
 - [[价值无涉]]（Wertfreiheit）— `concepts/价值无涉.md`
 - [[社会行动]]（Soziales Handeln / Verstehen）— `concepts/社会行动.md`
+- [[concepts/天职|天职/职业]]（Beruf / calling）— `concepts/天职.md`
+- [[concepts/资本主义精神|资本主义精神]]（Geist des Kapitalismus）— `concepts/资本主义精神.md`
+- [[concepts/入世禁欲|入世禁欲]]（innerweltliche Askese）— `concepts/入世禁欲.md`
+- [[concepts/铁笼|铁笼]]（stahlhartes Gehäuse）— `concepts/铁笼.md`
 
 ## 比较页
 
 - [[机械团结-vs-有机团结]] — `comparisons/机械团结-vs-有机团结.md`
+- [[comparisons/教派-vs-教会|教派 vs. 教会]]（Sekte vs. Kirche）— `comparisons/教派-vs-教会.md`
 - [[图腾崇拜-vs-个人主义宗教]] — `comparisons/图腾崇拜-vs-个人主义宗教.md`
 - [[宗教-vs-科学]] — `comparisons/宗教-vs-科学.md`
 - [[理想类型-vs-类别概念]] — `comparisons/理想类型-vs-类别概念.md`
