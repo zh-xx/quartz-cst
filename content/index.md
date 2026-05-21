@@ -1,7 +1,7 @@
 # Wiki 索引
 
 > 社会学经典理论研究仓库总目录。  
-> 最后更新：2026-05-20（READ-010 Step 0：新增儒教与道教文本页）
+> 最后更新：2026-05-21（READ-011 Step 5：升格仪礼隔离/誓约共同体；全书完成）
 
 ## 实体页
 
@@ -29,6 +29,7 @@
 - [[社会科学方法论文集]]（韦伯，1904–1922）— `entities/texts/社会科学方法论文集.md`
 - [[entities/texts/新教伦理与资本主义精神|新教伦理与资本主义精神]]（韦伯，1904–1905 / 1920修订）— `entities/texts/新教伦理与资本主义精神.md`
 - [[entities/texts/儒教与道教|儒教与道教]]（韦伯，1915 / 1920修订）— `entities/texts/儒教与道教.md`
+- [[entities/texts/古代犹太教|古代犹太教]]（韦伯，1917–1919 / 1920修订）— `entities/texts/古代犹太教.md`
 - [[社会分工论]]（涂尔干，1893）— `entities/texts/社会分工论.md`
 - [[社会学方法的准则]]（涂尔干，1895）— `entities/texts/社会学方法的准则.md`
 - [[自杀论]]（涂尔干，1897）— `entities/texts/自杀论.md`
@@ -65,6 +66,11 @@
 - [[concepts/资本主义精神|资本主义精神]]（Geist des Kapitalismus）— `concepts/资本主义精神.md`
 - [[concepts/入世禁欲|入世禁欲]]（innerweltliche Askese）— `concepts/入世禁欲.md`
 - [[concepts/铁笼|铁笼]]（stahlhartes Gehäuse）— `concepts/铁笼.md`
+- [[concepts/贱民民族|贱民民族]]（Pariavolk）— `concepts/贱民民族.md`
+- [[concepts/伦理先知|伦理先知]]（Ethischer Prophet）— `concepts/伦理先知.md`
+- [[concepts/世界紧张性|世界紧张性]]（Weltspannung）— `concepts/世界紧张性.md`
+- [[concepts/仪礼隔离|仪礼隔离]]（rituelle Segregation）— `concepts/仪礼隔离.md`
+- [[concepts/誓约共同体|誓约共同体]]（Eidgenossenschaft）— `concepts/誓约共同体.md`
 
 ## 比较页
 
