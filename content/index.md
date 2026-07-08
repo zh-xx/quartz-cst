@@ -1,7 +1,7 @@
 # Wiki 索引
 
 > 社会学经典理论研究仓库总目录。  
-> 最后更新：2026-05-21（READ-011 Step 5：升格仪礼隔离/誓约共同体；全书完成）
+> 最后更新：2026-07-08（READ-012 Step 3：第三篇逐章分析完成；新建业报与轮回/出世神秘主义概念页；新录入菩萨/信爱/导师崇拜/咒术-奇迹对照至概念追踪）
 
 ## 实体页
 
@@ -30,6 +30,7 @@
 - [[entities/texts/新教伦理与资本主义精神|新教伦理与资本主义精神]]（韦伯，1904–1905 / 1920修订）— `entities/texts/新教伦理与资本主义精神.md`
 - [[entities/texts/儒教与道教|儒教与道教]]（韦伯，1915 / 1920修订）— `entities/texts/儒教与道教.md`
 - [[entities/texts/古代犹太教|古代犹太教]]（韦伯，1917–1919 / 1920修订）— `entities/texts/古代犹太教.md`
+- [[entities/texts/印度的宗教|印度的宗教]]（韦伯，1916–1917 / 1920修订）— `entities/texts/印度的宗教.md`
 - [[社会分工论]]（涂尔干，1893）— `entities/texts/社会分工论.md`
 - [[社会学方法的准则]]（涂尔干，1895）— `entities/texts/社会学方法的准则.md`
 - [[自杀论]]（涂尔干，1897）— `entities/texts/自杀论.md`
@@ -71,6 +72,9 @@
 - [[concepts/世界紧张性|世界紧张性]]（Weltspannung）— `concepts/世界紧张性.md`
 - [[concepts/仪礼隔离|仪礼隔离]]（rituelle Segregation）— `concepts/仪礼隔离.md`
 - [[concepts/誓约共同体|誓约共同体]]（Eidgenossenschaft）— `concepts/誓约共同体.md`
+- [[concepts/种姓|种姓]]（Kaste）— `concepts/种姓.md`
+- [[concepts/业报与轮回|业报与轮回]]（Karma & Samsāra）— `concepts/业报与轮回.md`
+- [[concepts/出世神秘主义|出世神秘主义]]（außerweltliche Mystik）— `concepts/出世神秘主义.md`
 
 ## 比较页
 
@@ -80,6 +84,7 @@
 - [[宗教-vs-科学]] — `comparisons/宗教-vs-科学.md`
 - [[理想类型-vs-类别概念]] — `comparisons/理想类型-vs-类别概念.md`
 - [[comparisons/方法论总表|方法论总表]]（跨理论家方法论对照，累积型）— `comparisons/方法论总表.md`
+- [[comparisons/救赎类型-四极比较|救赎类型：四极比较]]（入世禁欲/出世禁欲/出世神秘主义/适应世界，跨READ-009/010/012）— `comparisons/救赎类型-四极比较.md`
 
 ## 查询页
 
