@@ -1,7 +1,7 @@
 # Wiki 索引
 
 > 社会学经典理论研究仓库总目录。  
-> 最后更新：2026-07-08（READ-012 Step 3：第三篇逐章分析完成；新建业报与轮回/出世神秘主义概念页；新录入菩萨/信爱/导师崇拜/咒术-奇迹对照至概念追踪）
+> 最后更新：2026-07-10（READ-012 Step 5：全书完成；宗教社会学/韦伯/政治社会学 field/person 页全部更新；韦伯比较宗教三部曲收尾）
 
 ## 实体页
 
@@ -84,6 +84,7 @@
 - [[宗教-vs-科学]] — `comparisons/宗教-vs-科学.md`
 - [[理想类型-vs-类别概念]] — `comparisons/理想类型-vs-类别概念.md`
 - [[comparisons/方法论总表|方法论总表]]（跨理论家方法论对照，累积型）— `comparisons/方法论总表.md`
+- [[comparisons/印度-vs-清教|印度 vs. 清教]]（Hinduismus/Buddhismus vs. Puritanismus，跨READ-009/010/011/012，三极比较完成）— `comparisons/印度-vs-清教.md`
 - [[comparisons/救赎类型-四极比较|救赎类型：四极比较]]（入世禁欲/出世禁欲/出世神秘主义/适应世界，跨READ-009/010/012）— `comparisons/救赎类型-四极比较.md`
 
 ## 查询页
