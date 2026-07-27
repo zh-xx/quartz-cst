@@ -31,6 +31,7 @@
 - [[entities/texts/儒教与道教|儒教与道教]]（韦伯，1915 / 1920修订）— `entities/texts/儒教与道教.md`
 - [[entities/texts/古代犹太教|古代犹太教]]（韦伯，1917–1919 / 1920修订）— `entities/texts/古代犹太教.md`
 - [[entities/texts/印度的宗教|印度的宗教]]（韦伯，1916–1917 / 1920修订）— `entities/texts/印度的宗教.md`
+- [[entities/texts/学术与政治|学术与政治]]（韦伯，1917–1919，两篇讲演）— `entities/texts/学术与政治.md`
 - [[社会分工论]]（涂尔干，1893）— `entities/texts/社会分工论.md`
 - [[社会学方法的准则]]（涂尔干，1895）— `entities/texts/社会学方法的准则.md`
 - [[自杀论]]（涂尔干，1897）— `entities/texts/自杀论.md`
@@ -75,6 +76,8 @@
 - [[concepts/种姓|种姓]]（Kaste）— `concepts/种姓.md`
 - [[concepts/业报与轮回|业报与轮回]]（Karma & Samsāra）— `concepts/业报与轮回.md`
 - [[concepts/出世神秘主义|出世神秘主义]]（außerweltliche Mystik）— `concepts/出世神秘主义.md`
+- [[concepts/理性化|理性化]]（Rationalisierung）— `concepts/理性化.md`
+- [[concepts/心志伦理与责任伦理|心志伦理与责任伦理]]（Gesinnungsethik / Verantwortungsethik）— `concepts/心志伦理与责任伦理.md`
 
 ## 比较页
 
@@ -86,6 +89,7 @@
 - [[comparisons/方法论总表|方法论总表]]（跨理论家方法论对照，累积型）— `comparisons/方法论总表.md`
 - [[comparisons/印度-vs-清教|印度 vs. 清教]]（Hinduismus/Buddhismus vs. Puritanismus，跨READ-009/010/011/012，三极比较完成）— `comparisons/印度-vs-清教.md`
 - [[comparisons/救赎类型-四极比较|救赎类型：四极比较]]（入世禁欲/出世禁欲/出世神秘主义/适应世界，跨READ-009/010/012）— `comparisons/救赎类型-四极比较.md`
+- [[comparisons/政治伦理-vs-救赎伦理|政治伦理 vs. 救赎伦理]]（跨希腊多神教/印度教/天主教/新教/古代以色列/儒教/现代西方，READ-013）— `comparisons/政治伦理-vs-救赎伦理.md`
 
 ## 查询页
 
